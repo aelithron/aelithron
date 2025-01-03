@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aelithron
 - 👀 I’m interested in javascript/typescript :3
-- 🌱 I’m currently learning new ways to do things in JS!
+- 🌱 I’m currently learning new ways to do things in JS/TS!
+- 🥇 I'm working on innovative new projects at [@axionspire](https://github.com/axionspire)
 - 💞️ I’m looking to collaborate on anything really, just reach out!
 - 📫 How to reach me: discord @aelithron
 - 😄 Pronouns: they/them 💛🤍💜🖤
