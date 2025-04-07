@@ -6,6 +6,7 @@
 - 📫 How to reach me: discord @aelithron
 - 😄 Pronouns: they/them 💛🤍💜🖤
 - ⚡ Fun fact: i hang out on discord and reddit a lot!
+- 🧑‍💻 i use arch btw
 
 <!---
 aelithron/aelithron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
