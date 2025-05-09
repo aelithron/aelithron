@@ -8,6 +8,8 @@
 - ⚡ Fun fact: i hang out on discord and reddit a lot!
 - 🧑‍💻 i use arch btw
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2008&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 <!---
 aelithron/aelithron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
