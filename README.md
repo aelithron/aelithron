@@ -1,6 +1,7 @@
 # ✨ hi, i'm nova! - `they/she`
 transfem enby who doesn't sleep \
-[pronouns.page](https://en.pronouns.page/@aelithron)
+[pronouns.page](https://en.pronouns.page/@aelithron) \
+[pfp credit](https://picrew.me/en/image_maker/2288696)
 
 💻 `typescript` | `react` | `java` \
 ✨ my orgs: [@axionspire](https://github.com/axionspire) | [@nynsrulers](https://github.com/nynsrulers) \
