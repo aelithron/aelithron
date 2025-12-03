@@ -14,6 +14,6 @@ transfem enby who doesn't sleep \
 🚨 boundaries: `ask to message` | `no NSFW (suggestive okay)` \
 📝 fandoms: `murder drones` | `genshin` | `hsr` \
 🎵 music: `derivakat` | `ajr` | `cavetown` \
-⛔️ dni: `bigots` | `ableists` | `conservatives/right-wingers` | `misogynists` | `creeps`
+⛔️ dni: `bigots` | `ableists` | `right-wingers` | `misogynists` | `creeps`
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2008&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
