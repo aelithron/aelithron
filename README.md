@@ -1,12 +1,10 @@
-# ✨ hi, i'm nova! - `they/she`
+# ✨ hi, i'm nova! - `she/they`
 transfem enby who doesn't sleep \
-[pronouns.page](https://en.pronouns.page/@novatea) \
-[pfp credit](https://picrew.me/en/image_maker/2288696)
+[ [pronouns.page](https://en.pronouns.page/@novatea) | [pfp credit](https://picrew.me/en/image_maker/2288696) ]
 
 💻 `typescript` | `react` | `java` \
-✨ my orgs: [@axionspire](https://github.com/axionspire) | [@nynsrulers](https://github.com/nynsrulers) \
 🌱 learning things at [@hackclub](https://github.com/hackclub) \
-📫 contact: `discord @aelithron` | `aelithron@gmail.com`
+📫 contact: `nova@novatea.dev`
 
 🌈 aesthetic: `soft girl :3` \
 📚 hobbies: `writing` | `reading` | `coding` \
@@ -16,4 +14,4 @@ transfem enby who doesn't sleep \
 🎵 music: `derivakat` | `ajr` | `cavetown` \
 ⛔️ dni: `bigots` | `ableists` | `right-wingers` | `misogynists` | `creeps`
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2008&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2008&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
