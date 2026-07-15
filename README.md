@@ -1,6 +1,6 @@
 # ✨ hi, i'm nova! - `she/they`
 transfem enby who doesn't sleep \
-[ [pronouns.page](https://en.pronouns.page/@novatea) | [pfp credit](https://picrew.me/en/image_maker/2288696) ]
+[ [my site](https://novatea.dev) | [pronouns.page](https://en.pronouns.page/@novatea) ]
 
 💻 `typescript` | `react` | `java` \
 🌱 learning things at [@hackclub](https://github.com/hackclub) \
